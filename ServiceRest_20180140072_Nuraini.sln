@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceRest_20180140072_Nuraini", "ServiceRest_20180140072_Nuraini\ServiceRest_20180140072_Nuraini.csproj", "{55A2C364-4768-47FE-BB90-854BAE8A18CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A2C364-4768-47FE-BB90-854BAE8A18CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A2C364-4768-47FE-BB90-854BAE8A18CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A2C364-4768-47FE-BB90-854BAE8A18CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A2C364-4768-47FE-BB90-854BAE8A18CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB548A8D-C86C-44DB-A87C-BB45699348B5}
+	EndGlobalSection
+EndGlobal
